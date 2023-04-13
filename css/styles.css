@@ -223,9 +223,7 @@ color:var(--third-tittle-color);
 
 .picture-item-link{
     display: block;
-    box-shadow: 0px 0px 0px rgba(46, 47, 66, 0.08),
-    0px 0px 0px rgba(46, 47, 66, 0.16), 
-    0px 0px 0px rgba(46, 47, 66, 0.08);
+    
 }
 .picture-item-link:hover,
 .picture-item-link:focus{
@@ -347,7 +345,6 @@ text-align: center;
 letter-spacing: 0.02em;
 color: var(--body-color);
 margin-bottom: 8px;
-
 }
 .fourth-soc-list {
     display: flex;
@@ -399,8 +396,7 @@ color: var(--body-color);
 .customers-item {
     width: 168px;
     height: 88px;
-    border: 1px solid #8E8F99;
-border-radius: 4px;
+    
 }
 .customers-link {
 width: 100%;
@@ -456,7 +452,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--footer-text-color);
 margin-top: 16px;
-margin-right: 61px;
 max-width: 264px;
 }
 
